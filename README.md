@@ -1,5 +1,11 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fbacde,100:ff0571&height=120&text=Keep%20Going,%20Keep%20Building,%20Till%20It%20Works&animation=fadeIn&fontColor=000000&fontSize=40" />
+    <h1 style="
+    color:#fff;font-size:44px;line-height:1.15;margin:0;padding:0 24px;text-align:center;
+    font-weight:800;letter-spacing:.5px;
+    text-shadow:0 1px 2px rgba(0,0,0,.25);
+    font-family:Inter, Pretendard, Apple SD Gothic Neo, Noto Sans, Arial Black, Impact, system-ui, sans-serif;">
+    Keep Going, Keep Building, Till It Works
+  </h1>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -28,15 +34,13 @@
           </div>
     </div>
     <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumi0315&theme=omni&show_icons=true)
+</div><br> 
+    <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link="> </a>
          <a href=> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link="> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-    
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumi0315&theme=omni&show_icons=true)
-
-    
+          </div> 
+    </div><br> 
