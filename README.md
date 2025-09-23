@@ -41,11 +41,12 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-
+        
+![GitHub Streak](https://streak-stats.vercel.app?user=yumi0315&theme=dark&hide_border=false&t=1)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumi0315&theme=omni&show_icons=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumi0315&layout=compact&theme=omni)<br>
-![GitHub Streak](https://streak-stats.vercel.app?user=yumi0315&theme=dark&hide_border=false&t=1)
-</div><br> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumi0315&layout=compact&theme=omni)
+
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link="> </a>
