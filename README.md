@@ -5,7 +5,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Story ✨ </h2>
-    <div style="margin: 0 auto; text-align: center;" align= "center"><h3>🧱 Foundations 2023–2024 </h3>
+    <div style="margin: 0 auto; text-align: center;" align= "center"><h3> 2023–2024 Foundations 🧱 </h3>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
@@ -37,10 +37,11 @@
         <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
         </div>
+    <div style="margin: 0 auto; text-align: center;" align= "center"><h3> 2025 MLOps & Algorithm 😎 </h3>
     </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats ✌ </h2> 
         
 ![GitHub Streak](https://streak-stats.vercel.app?user=yumi0315&theme=dark&hide_border=false&t=1)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumi0315&theme=omni&show_icons=true)<br>
