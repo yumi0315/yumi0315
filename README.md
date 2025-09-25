@@ -39,6 +39,7 @@
         </div>
     <div style="margin: 0 auto; text-align: center;" align= "center"><h3> 2025 MLOps & Algorithm 😎 </h3>
     </div>
+        python docker k8 minio tensorflow pytorch mlflow kuberflow
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats ✌ </h2> 
