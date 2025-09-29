@@ -39,6 +39,8 @@
         </div>
     <div style="margin: 0 auto; text-align: center;" align= "center"><h3> 2025 MLOps & Algorithm 😎 </h3>
     </div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+        <br>
         python docker k8 minio tensorflow pytorch mlflow kuberflow
     </div>
     <div align= "center">
